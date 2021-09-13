@@ -1,8 +1,8 @@
-tensorflow>=2.1.0
-matplotlib>=3.1.2
-numpy>=1.16.4
-gym>=0.15.4
-ipykernel>=5.5.5
-jupyter>=1.0.0
-tqdm>=4.62.2
-setuptools>=46.2.0
+tensorflow==2.2.0
+matplotlib==3.1.2
+numpy==1.19.5
+gym==0.17.2
+ipykernel==5.3.4
+jupyter==1.0.0
+tqdm==4.46.1
+setuptools==46.2.0
