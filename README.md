@@ -1,15 +1,12 @@
 # cart_1d
 Setup Instructions:
 
-git clone https://github.com/pramodcm95/cart_1d.git
+1) git clone https://github.com/pramodcm95/cart_1d.git
 
-Then either
+2) cd card_1d
 
-python setup.py install
+3) python setup.py install
 
-or alternatively
-
-pip install -e .
 
 # Creating new environment and adding ito jupyter notebook :
 1) Create new python/conda environment - conda create -n envname python=3.6 ipykernel jupyter anaconda
