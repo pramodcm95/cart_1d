@@ -5,3 +5,12 @@ gym==0.17.2
 ipykernel==5.3.4
 tqdm==4.46.1
 setuptools==51.0.0
+absl-py>=0.7.0
+astunparse==1.6.3
+gast==0.3.3
+google-pasta>=0.1.8
+grpcio>=1.8.6
+h5py<2.11.0,>=2.10.0
+keras-preprocessing<1.2,>=1.1.1
+opt-einsum>=2.3.2
+protobuf>=3.9.2
