@@ -8,7 +8,7 @@ Setup Instructions:
 3) python setup.py install
 
 
-# Creating new environment and adding ito jupyter notebook :
+# Creating new environment and adding it to jupyter notebook :
 1) Create new python/conda environment - conda create -n envname python=3.7 ipykernel jupyter anaconda
 2) Add new environment to jupyter notebook via - ipython kernel install --user --name=envname
 
