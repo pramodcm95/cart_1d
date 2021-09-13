@@ -3,7 +3,7 @@ Setup Instructions:
 
 1) git clone https://github.com/pramodcm95/cart_1d.git
 
-2) cd card_1d
+2) cd cart_1d
 
 3) python setup.py install
 
